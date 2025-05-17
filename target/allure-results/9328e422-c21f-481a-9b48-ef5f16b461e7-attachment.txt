@@ -1,0 +1,2 @@
+Request: {'password': 'ryxsufkoak', 'firstName': 'hmtxsfkudd'}
+Response: 400, {"code":400,"message":"Недостаточно данных для создания учетной записи"}
