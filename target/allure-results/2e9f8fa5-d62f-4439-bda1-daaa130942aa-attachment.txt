@@ -1,0 +1,2 @@
+Request: {'login': 'ncvufhqbki', 'password': 'okaudwzkqn', 'firstName': 'vcjyffjcmt'}
+Response: 201, {"ok":true}
